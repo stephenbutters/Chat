@@ -13,6 +13,7 @@ Client Usage:
     python2 client.py client_name server_address server_port
     
  Client control message:
-      /list    List all current chat channels
-      /create  Create a channel
+      /list    List all current chat channels <br/>
+      /create  Create a channel <br/>
       /join    Join an existing channel
+      
